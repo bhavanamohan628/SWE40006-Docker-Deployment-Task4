@@ -1,0 +1,5 @@
+Count: 6
+Total: 105.0
+Average: 17.5
+Minimum: 5.0
+Maximum: 30.0
